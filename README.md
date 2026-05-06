@@ -26,7 +26,7 @@ I believe great design lives at the crossroads of user needs, business goals, an
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Fusion-000000?style=flat&logo=blackmagicdesign&logoColor=white" alt="Fusion"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Penpot-EAB691?style=flat&logo=penpot&logoColor=white" alt="Penpot"/>
+  <img src="https://img.shields.io/badge/Penpot-151035?style=flat&logo=penpot&logoColor=white" alt="Penpot"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Sketch-FF6B00?style=flat&logo=sketch&logoColor=white" alt="Sketch"/>
@@ -52,7 +52,7 @@ I believe great design lives at the crossroads of user needs, business goals, an
 
 ### [Lyon Ritchie Portfolio](https://lyonritchie.com) -- Personal Studio
 
-> Ongoing creative studio work spanning interactive design, 3D art, motion graphics, and client projects for government and commercial audiences.
+> Ongoing creative studio work spanning interactive design, 3D art, motion graphics, and client projects for education, government and commercial audiences.
 
 ## What I'm Working On
 
