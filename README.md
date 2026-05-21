@@ -14,7 +14,7 @@ I believe great design lives at the crossroads of user needs, business goals, an
 
 - **UX/UI Design** -- Interface design, wireframing, prototyping, usability research
 - **3D Art & VFX** -- Full-dome animation, environmental design, visual effects
-- **Creative Technology** -- WebGL, Blender, Unreal Engine
+- **Creative Technology** -- WebGL, Blender, Unreal Engine, Godot, Unity
 - **Corporate Communications** -- Design systems, multi-channel storytelling, brand identity
 - **Automation & Tooling** -- Bash, Python, and app development; workflows and API integrations to eliminate bottlenecks in creative and technical workflows
 
