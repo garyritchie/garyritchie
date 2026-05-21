@@ -36,17 +36,17 @@ I believe great design lives at the crossroads of user needs, business goals, an
 
 ## Selected Projects
 
-### [Cosmic Careers](https://lyonritchie.com/case-studies/cosmic-careers.html) -- Interactive educational game
+### [Cosmic Careers](https://lyonritchie.com/case-studies/cosmic-careers) -- Interactive educational game
 
 > Full environment art production (cleanroom concept, lunar surface, lava tube terrain), core game design for short-session play, UI mockups (rover chassis selection, resource scanning, end-of-mission debrief), procedural generation pipeline
 
-**Explore the lunar environment** in our free [Lunar Demonstrator](https://lyonritchie.com/lab/lunar-surface-kit.html)!
+**Explore the lunar environment** in our free [Lunar Demonstrator](https://lyonritchie.com/lab/lunar-surface-kit)!
 
-### [Planetarium: Exoplanets](https://lyonritchie.com/case-studies/exoplanets.html) -- Full-Dome VFX Production
+### [Planetarium: Exoplanets](https://lyonritchie.com/case-studies/exoplanets) -- Full-Dome VFX Production
 
 > Subcontracted for Glen Johnson (Planet Development) -- exhibited at Planetarium Hamburg. Created 3D assets, environments, and visual effects for an immersive planetarium experience.
 
-### [Blueprints to Blastoff](https://lyonritchie.com/case-studies/blueprints-to-blastoff.html) -- Full-Dome Animation
+### [Blueprints to Blastoff](https://lyonritchie.com/case-studies/blueprints-to-blastoff) -- Full-Dome Animation
 
 > Produced full-dome animation and VFX for Carnegie Science Center featuring rocket launches, ISS flybys, and lunar/Mars landings. Used Unreal Engine for the production pipeline.
 
